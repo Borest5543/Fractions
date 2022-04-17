@@ -1,3 +1,5 @@
+# Licença
+![NPM](https://github.com/Borest5543/Fractions/commit/554a3d2679ce0d082f38c07525efe7e377b04dab)
 # Sobre o projeto
 A aplicação consiste na visualização didática de operações com frações de forma interativa através de comandos no teclado.
 A aplicação se destina a ensino de frações a alunos da eduação fundamental 2 primeiros anos (6º e 7º), com a construção de frações, leitura e interpretação de diagramas, operação com frações e simplificação de frações.
