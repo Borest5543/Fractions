@@ -6,7 +6,7 @@ A aplicação se destina a ensino de frações a alunos da eduação fundamental
 
 # Tecnologias utilizadas
 - python 3
-- biblioteca pygames
+- biblioteca pygame
 - biblioteca lcm
 - bilbioteca time
 
