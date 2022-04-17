@@ -13,16 +13,16 @@ A aplicação se destina a ensino de frações a alunos da eduação fundamental
 - 3 Diagramas, 2 de entrada e 1 de saída.
 - Simplificações das 3 Frações.
 - Pointer para visualização da interação via teclado.
-![Interface](https://github.com/Borest5543/Fractions/blob/main/fracoes.png)
+![Interface](https://github.com/Borest5543/Fractions/blob/main/Images/fracoes.jpg)
 ## Frações impróprias:
 Para as frações impróprias foi adotado uma notação, que a cada novo número inteiro é adicionado uma nova barra menor ao lado do corpo do diagrama para representar um diagrama completo.
-![Fração imprópria](https://github.com/Borest5543/Fractions/blob/main/fracao_inpropria.png)
+![Fração imprópria](https://github.com/Borest5543/Fractions/blob/main/Images/fracao_inpropria.png)
 ## Números negativos:
 Em casos de números negativos a coloração da fração negativa será representada em violeta para facilitar a identificação de negativo.
-![número negativo](https://github.com/Borest5543/Fractions/blob/main/fracao_negativa.png)
+![número negativo](https://github.com/Borest5543/Fractions/blob/main/Images/fracao_negativa.png)
 ## Denominador igual a 0:
 Em casos de denominadores iguais a zero, uma mensagem de que não é possível dividir por zero aparecerá na tela.
-![denominador 0](https://github.com/Borest5543/Fractions/blob/main/denominador0.png)
+![denominador 0](https://github.com/Borest5543/Fractions/blob/main/Images/denominador0.png)
 
 ## Comandos
 ### Setas do teclado:
